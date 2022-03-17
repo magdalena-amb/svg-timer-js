@@ -3,10 +3,14 @@
   width: 400px;
 }
 
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
 .timer {
   position: relative;
-  top: 40%;
-  left: 40%;
   display: inline-block;
 }
 
